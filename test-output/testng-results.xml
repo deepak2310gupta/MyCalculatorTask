@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-28T23:55:51 IST" name="Default suite" finished-at="2021-09-28T23:55:52 IST" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2021-09-28T23:55:51 IST" name="Default test" finished-at="2021-09-28T23:55:52 IST" duration-ms="68">
+      <class name="TestCalci">
+        <test-method signature="emptyStringReturnsZeroSum()[pri:0, instance:TestCalci@12b0404f]" started-at="2021-09-28T23:55:52 IST" name="emptyStringReturnsZeroSum" finished-at="2021-09-28T23:55:52 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyStringReturnsZeroSum -->
+        <test-method signature="ignoreNumbersGreaterthan1000Sum()[pri:0, instance:TestCalci@12b0404f]" started-at="2021-09-28T23:55:52 IST" name="ignoreNumbersGreaterthan1000Sum" finished-at="2021-09-28T23:55:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ignoreNumbersGreaterthan1000Sum -->
+        <test-method signature="supportDifferentDelimiterSum()[pri:0, instance:TestCalci@12b0404f]" started-at="2021-09-28T23:55:52 IST" name="supportDifferentDelimiterSum" finished-at="2021-09-28T23:55:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supportDifferentDelimiterSum -->
+        <test-method signature="threeNumbersDelimiterSum()[pri:0, instance:TestCalci@12b0404f]" started-at="2021-09-28T23:55:52 IST" name="threeNumbersDelimiterSum" finished-at="2021-09-28T23:55:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threeNumbersDelimiterSum -->
+        <test-method signature="twoNumbersBothWaysSum()[pri:0, instance:TestCalci@12b0404f]" started-at="2021-09-28T23:55:52 IST" name="twoNumbersBothWaysSum" finished-at="2021-09-28T23:55:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoNumbersBothWaysSum -->
+        <test-method signature="twoNumbersCommaDelimitedSum()[pri:0, instance:TestCalci@12b0404f]" started-at="2021-09-28T23:55:52 IST" name="twoNumbersCommaDelimitedSum" finished-at="2021-09-28T23:55:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoNumbersCommaDelimitedSum -->
+        <test-method signature="twoNumbersNewLineDelimitedSum()[pri:0, instance:TestCalci@12b0404f]" started-at="2021-09-28T23:55:52 IST" name="twoNumbersNewLineDelimitedSum" finished-at="2021-09-28T23:55:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twoNumbersNewLineDelimitedSum -->
+      </class> <!-- TestCalci -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
